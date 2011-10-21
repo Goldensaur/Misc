@@ -1,0 +1,11 @@
+obj
+bin
+pkg
+Debug
+Release
+.nu
+_ReSharper.*
+*.user
+*.suo
+*.log
+*.ncb
